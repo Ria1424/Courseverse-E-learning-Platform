@@ -1,2 +1,3 @@
 # Courseverse-E-learning-Platform-
-Project done in Semester 4
+This is my Semester 4 project. <br>
+This was made as mini project during the courses: Software design with UML and DBMS
